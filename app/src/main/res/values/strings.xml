@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CofeeShop</string>
+    <string name="feel_the_original_taste_of_indonesia_cofee_that_make_your_day_feel_better">Feel the original taste of Indonesia cofee that make your day feel better</string>
+    <string name="about_us">About Us</string>
+    <string name="icon_location">icon_location</string>
+    <string name="jl_pangeran_dipenogoro_no_232_makassar_indonesia">Jl.Pangeran Dipenogoro No 232, Makassar, Indonesia</string>
+    <string name="email_icon">email_icon</string>
+    <string name="cofeeshop_gmail_com">cofeeshop@gmail.com</string>
+    <string name="time_icon">time icon</string>
+    <string name="_08_00_am_09_00_pm">08:00 AM - 09:00 PM</string>
+</resources>
